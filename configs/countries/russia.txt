@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 247
+# Всего рабочих: 248
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -61,6 +61,7 @@ vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@neth4.lckdwn.ru:8443?alpn=h2%2Chttp
 vless://9fd78c11-d331-4c1d-ba6c-046e970c1464@nltw8.lckdwn.ru:8443?type=tcp&security=reality&sni=dzen.ru&pbk=FnoA9F_919MbdRH1bFYENR1Yl9C0MeDdb47rZ4R-IGo&sid=dd910a5b30&fp=chrome&spx=/j0wwmtt5ighhegg&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@mws.tunnelgate.org:14443?encryption=none&path=%2Fru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:8443?security=tls&encryption=none&sni=neth6.lckdwn.ru&alpn=h2%2Chttp/1.1&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@cf15.rumedia-cdn.com:443?encryption=none&security=tls&fp=chrome&sni=cf15.rumedia-cdn.com&alpn=http%2F1.1&type=ws&host=cf15.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-2.concept7.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=e29c9c180c62&sni=deepl.com&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://02a1a067-094c-48c8-a13c-7a9711838319@insights.capitaledge.blog:8443?type=tcp&security=reality&sni=aliusfilms.ru&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://02a1a067-094c-48c8-a13c-7a9711838319@data.westondigita.cloud:8443?type=tcp&security=reality&sni=aliusfilms.ru&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
