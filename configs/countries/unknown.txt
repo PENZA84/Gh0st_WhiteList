@@ -5321,6 +5321,7 @@ ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@103.172.116.6:9011#%F0%9F%8F%B3%EF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYdkswbHRINjdYaHY5aHQ5UmhZc0Z5@masting.xyz:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMXdCZ0NJVjMyOXF0NzdJRnZERUdF@beeconf.xyz:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@beacomf.xyz:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.171.89:989#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -9501,7 +9502,6 @@ vless://8c6bfd63-6f28-40d8-919d-9571a53a9550@tv.tetrov.top:9899?Telegram=@Gozarg
 vmess://eyJhZGQiOiJkZTEudHJiMnYuYmxvZyIsImlkIjoiMjU1OWYzNmEtOWU3YS00MWQ0LTg0ZjItMGY2MGUwZTdhZTI3IiwibmV0IjoidGNwIiwicG9ydCI6ODg4MCwicHMiOiJcdWQ4M2NcdWRmZjNcdWZlMGYgR2gwc3RfV2hpdGVMaXN0Iiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://123b0cf3-7641-4d00-a89d-75d10a90f485@176.97.218.225:2020?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://a5284762-b362-41ef-a668-4c2e11f512a2@ziba.moblemangol.ir:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=dash.zendegizibast.ir&sni=dash.zendegizibast.ir&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://888ace32-07d3-4000-b6c2-1268d9715f1b@ticket.cutizeh.ir:1120?security=none&encryption=mlkem768x25519plus.native.0rtt.BziBY9rg2vWiL0cQZolLX1Ph8OpTr4_jtw2c7ccMkwo&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://02bcb542-60ac-4e31-9a8c-632ba8765108@Tencdn2.abimesledarya.com:443?path=%2FDL&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=tencdn2.paeenneshin.ir&fp=chrome&type=ws&allowInsecure=0&sni=tencdn2.paeenneshin.ir#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://3be8def2-8f5a-4ff7-8c5a-f806e711283e@www.serendpiti.ir:7030?encryption=none&type=ws&security=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://c422f575-a7ea-4bac-897a-e29021ec8cab@8970141323_a39b.t3a.syslogd.ir:9093?path=%2Fapi%2Fv2%2Fcom.trezor.io%3Fed%3D2560&security=none&encryption=mlkem768x25519plus.native.0rtt.JKTfELQ3_c8HCxgXaFT-sKtAQsynyKTdpUxf6B3LJUg&host=play.google.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
