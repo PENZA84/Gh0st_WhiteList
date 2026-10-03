@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 250
+# Всего рабочих: 251
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -93,6 +93,7 @@ vmess://eyJpbnNlY3VyZSI6IjAiLCJzY3kiOiJhdXRvIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwic3Vy
 vmess://eyJpbnNlY3VyZSI6IjAiLCJzY3kiOiJhdXRvIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwic3Vydml2ZWRfcGFzc2VzIjozLCJwcyI6Ilx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYSBHaDBzdF9XaGl0ZUxpc3QiLCJhZGQiOiJpbWFnZS5jb2xvcnZpb2xldC5pciIsInBvcnQiOiIyMDIxIiwiaWQiOiI2YjhkYmM2Ni1lYTQwLTQ0NGEtYjkzZC1jYjIwYzAwOGFmMTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InR1bi5taXRkbnMuaXIifQ==
 vmess://eyJpbnNlY3VyZSI6IjAiLCJzY3kiOiJhdXRvIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwic3Vydml2ZWRfcGFzc2VzIjozLCJwcyI6Ilx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYSBHaDBzdF9XaGl0ZUxpc3QiLCJhZGQiOiJpbWFnZS5jb2xvcnZpb2xldC5pciIsInBvcnQiOiI0OTMyIiwiaWQiOiI2YjhkYmM2Ni1lYTQwLTQ0NGEtYjkzZC1jYjIwYzAwOGFmMTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InR1bi5taXRkbnMuaXIifQ==
 vless://7fe62896-4275-4f05-92ab-9dad46074888@freeshka.i-love-russia.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=freeshka.i-love-russia.online&fp=firefox&pbk=Tm50a8xPW6cazNhgmTSHNbVfqaplvNSx0BQoJCGe3jU&sid=4aa753c327e7fd94&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://710fc22f-06b2-03f6-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@fl6.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@fl7.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://9d2fc77e-4337-420c-84f1-91ccb6724cc0@de1.node.astracat.ru:443?type=ws&security=tls&sni=de1.node.astracat.ru&fp=chrome&allowInsecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
