@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14152
+# Всего рабочих: 14151
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -8134,7 +8134,6 @@ vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0w
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo@23.150.248.20:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?&security=reality&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&fp=ios&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://4e0f4e59-3613-4f0c-b824-7348413d20e6@jyvlryz.cvewfjg.shop:443?encryption=none&flow=xtls-rprx-vision&type=tcp%231%F0%9F%8E%97%EF%B8%8F@oneclickvpnkeys&security=reality&sni=www.cloudflare.com&pbk=UE8hUjH1WYwemxIriq5lvtFCnHTdLF817okXr-u7MGs&sid=250b5976473a#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?security=reality&encryption=none&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=c85d029f5e8eb393#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://31d5256b-b7e8-40cd-a541-441f63e60984@best-internet-iran.app.runonflux.io:443?alpn=h2&encryption=none&fp=chrome&host=&path=%2Fxvpnws%2F&security=tls&sni=best-internet-iran.app.runonflux.io&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://949cd84a-8e76-4a54-bd13-3bf99a2b40a9@69.46.46.80:443?path=/ws/949cd84a-8e76-4a54-bd13-3bf99a2b40a9&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=spiderpanel-production-6899.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=spiderpanel-production-6899.up.railway.app#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
