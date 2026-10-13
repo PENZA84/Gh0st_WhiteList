@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14108
+# Всего рабочих: 14109
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -7909,6 +7909,7 @@ vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoi
 vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@45.145.43.44:18443?encryption=none&security=reality&sni=gp1.steptofsvo.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://8db6a2c6-fd7f-4248-96db-c332a61920dd@free.iranimodem.com:143?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=0eBm7O0yd-_3BzATI-PkxexuxG9YcO7omXc6jAqenA4&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=1df83bd9f690e137#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://4ce7fa65-37ee-48ef-b7a3-902caf592e81@193.148.253.186:49188?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+vless://934aeacf-5acc-41e1-9c83-fa7cebff2571@XN-cdn-google-922p938m204clvxede4.waNfira.IR:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&sid=6ea3daaac3d6bede#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vmess://eyJhZGQiOiI1MS43NS43NC4yNTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjc4YThhMmMtYWNhOC0xMWYxLWIzNDItYWZhNjI4OGUyMmY4IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZwbmphbnRpdCIsInBvcnQiOiIxMDAwMCIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmIEdoMHN0X1doaXRlTGlzdCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://14ffccc6-81e0-4108-ab35-b3df398534af@apiln2.jobwebs.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=545df9caf95f7cd8#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://ea8eb632-7d56-4bfb-8195-dc34268b5844@195.66.24.172:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
