@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14098
+# Всего рабочих: 14097
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -6689,7 +6689,6 @@ trojan://NQ26071394@warm-bass.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%
 trojan://CF68213490@caring-wallaby.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://EQ30679154@well-goshawk.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://CF68213490@eager-platypus.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://CF68213490@definite-ladybird.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@35.72.81.216:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://PD07395842@excited-ghoul.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -8254,6 +8253,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.253.48:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.253.48:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://21e26ef9-c061-4ae3-88e4-ecc4513a3bb7@fristoofarfromyou.arakphone.ir:29188?security=reality&encryption=none&pbk=_wJrpmOWloFFitJf2TBZNKSN0fQZGHkBur8MEQyG6yI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.diba4movie.xyz&sid=57739912cc2f13ec#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.59.160:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@kshskjsjskeoekheueieie.nenenet1.ir:29524?encryption=mlkem768x25519plus.native.0rtt.mAwHzKOkD-IZDsIGPPQCfctKpUgPcx2K_zEIzGEkxlE&security=none&type=ws&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.152.249:22224?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node13.mxvpn.dev:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node13.mxvpn.dev&fp=chrome&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.253.48:22223?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -12656,7 +12656,6 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@ire01.skorostnet.space:13868?type=t
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@ire02.skorostnet.space:13868?type=tcp&security=reality&sni=amd.com&pbk=XkqVl2cyWFosUZRHlg55Iek6KzLEoT_OPzuoErgWfWg&sid=e852dc&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://AE62539071@helped-haddock.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://FH72359861@touching-turtle.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://c7e9c591-2764-423a-afca-efbd010fd396@54.229.164.147:2053?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=balanced-heron.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList

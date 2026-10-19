@@ -699,7 +699,7 @@ trojan://NQ26071394@warm-bass.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%
 trojan://CF68213490@caring-wallaby.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://EQ30679154@well-goshawk.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://CF68213490@eager-platypus.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://CF68213490@eager-platypus.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://CF68213490@definite-ladybird.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@35.72.81.216:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://PD07395842@excited-ghoul.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -1454,7 +1454,7 @@ trojan://WG39087154@grateful-unicorn.rooster465.autos:443?type=raw&headerType=no
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://AE62539071@helped-haddock.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://FH72359861@touching-turtle.rooster465.autos:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=balanced-heron.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://PQ05174892@concise-bass.rooster465.autos:443?type=tcp&security=tls&sni=concise-bass.rooster465.autos&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
