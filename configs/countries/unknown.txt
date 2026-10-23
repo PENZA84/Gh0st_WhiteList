@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14079
+# Всего рабочих: 14078
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -9960,7 +9960,6 @@ trojan://-----------BanV2ray-----------@83.228.227.156:47375?security=reality&sn
 trojan://ab6278bc429170f@ifo.configfast.site:58900?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=chrome&spx=/Z5AUwxp13GrTd3S&type=tcp&sni=google.com&sid=27#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@179.237.86.7:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=ch.quattro-tech.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://99daa633-8998-4f51-931c-9f71fe113137@swz.safesurf.cloud:443?encryption=none&security=reality&sni=swz.safesurf.cloud&fp=firefox&pbk=YQlrDSmelZCSEjdZ4wHTitKE-khMnjfwimiahX8QLl8&spx=%2F&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://31649657-6c78-4c2c-b25b-5cd574b082b5@ch10.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch10.tunnely.ru&sid=2e40144ddc07e8e1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://t.me.TradeIP@179.237.75.199:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=/000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=218cdbeddf1a#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://------------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:4715?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=firefox&spx=%2F856cd1724e22cb9&type=grpc&sni=chi.yahoo.com&sid=74772f4487d61a#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://------------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:2637?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=firefox&spx=%2F856cd1724e22cb9&type=grpc&sni=chi.yahoo.com&sid=05626eef4c#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
